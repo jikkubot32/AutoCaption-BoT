@@ -19,8 +19,8 @@ start_message = """
 <b>@Film_ClubChannel</b>"""
 
 about_message = """
-<b>• Name : [AutoCaption V1](t.me/{username})</b>
-<b>• Developer : [Mallu Bhai](https://t.me/MalluBhai)
+<b>• Name : [AutoCaption V1] </b>
+<b>• Developer : <a href=https://t.me/MalluBhai>[Mallu Bhai]</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
 <b>• Updates : <a href=https://t.me/Film_ClubChannel>Click Here</a></b>
