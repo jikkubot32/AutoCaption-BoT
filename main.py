@@ -89,4 +89,4 @@ def about_buttons(bot, update):
 print("Telegram AutoCaption V1 Bot Start")
 print("Bot Created By https://t.me/MalluBhai")
 
-AutoCaptionBotV1.run()
+AutoCaptionBot.run()
